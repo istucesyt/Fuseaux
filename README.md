@@ -1,5 +1,5 @@
 # Fuseaux
-<img width="150" alt="Fuseaux PNG" src="https://github.com/istucesyt/Fuseaux/assets/108399865/bff09c60-6d46-46a2-be70-b2e1f6b29b16">
+<img a href="https://zupimages.net/viewer.php?id=23/22/dtlv.png"><img src="https://zupimages.net/up/23/22/dtlv.png" width="150"/>
 
 <sub> > Icône par julianparrenoGD. </sub>
 
