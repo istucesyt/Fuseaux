@@ -7,38 +7,45 @@ on obtenirHeure(fuseau)
 	return heure
 end obtenirHeure
 
+set choix to ""
+
 repeat
 	
-	display dialog "Fuseaux est un logiciel gratuit. Pour plus d’informations sur celui-ci et sur son fonctionnement, consultez le répertoire GitHub du projet." with title "Fuseaux" with icon note buttons {"Quitter", "Voir les fuseaux horaires", "À propos"} default button 2
-	set choice to button returned of result
-	
-	if choice is "Quitter" then
-		tell application "Fuseaux"
-			quit
-		end tell
-	end if
-	
-	if choice is "À propos" then
-		display dialog "Version 1.0 build 1 beta
+	if choix is not "-" then
+		
+		display dialog "Fuseaux est un logiciel gratuit. Pour plus d’informations sur celui-ci et sur son fonctionnement, consultez le répertoire GitHub du projet." with title "Fuseaux" with icon note buttons {"Quitter", "Voir les fuseaux horaires", "À propos"} default button 2
+		set choice to button returned of result
+		
+		if choice is "Quitter" then
+			tell application "Fuseaux"
+				quit
+			end tell
+		end if
+		
+		if choice is "À propos" then
+			display dialog "Version 1.0 build 2
 2023, iStuces
 
 Co-créé par l'intelligence artificielle. 🧠
 Pour toute suggestion ou tout signalement, merci de contacter istucesyt@gmail.com
 Pour bénéficier de toutes les informations sur ce logiciel, et de plus de contenus, rejoignez le serveur Discord d'iStuces :" with title "À propos de Fuseaux" buttons {"Rejoindre le serveur Discord", "Fermer"} with icon note default button 2
-		
-		set choice to button returned of result
-		
-		if choice is "Rejoindre le serveur Discord" then
-			tell application "Safari"
-				activate
-				open location "https://tinyurl.com/iStuces-Discord"
-			end tell
+			
+			set choice to button returned of result
+			
+			if choice is "Rejoindre le serveur Discord" then
+				tell application "Safari"
+					activate
+					open location "https://tinyurl.com/iStuces-Discord"
+				end tell
+			end if
 		end if
+		
 	end if
 	
 	if choice is "Voir les fuseaux horaires" then
 		
 		set fuseauSelectionne to choose from list fuseauxHoraires with title "Fuseaux" with prompt "Sélectionnez un fuseau horaire :" default items {item 1 of fuseauxHoraires} without multiple selections allowed
+		set choix to ""
 		
 		if fuseauSelectionne is not false then
 			set fuseauSelectionne to item 1 of fuseauSelectionne
@@ -51,10 +58,15 @@ Pour bénéficier de toutes les informations sur ce logiciel, et de plus de cont
 			
 			set choix to button returned of (display dialog "Heure actuelle dans le fuseau horaire " & fuseauSelectionne & " (" & offsetGMT & ") : " & heureSelectionnee buttons {"Définir comme fuseau horaire", "Retour à la liste"} default button 1 with title "Fuseau " & fuseauSelectionne & "")
 			
+			if choix is "Retour à la liste" then
+				set choix to "-"
+			end if
+			
 			if choix is "Définir comme fuseau horaire" then
 				do shell script "sudo systemsetup -settimezone " & fuseauSelectionne with administrator privileges
 				display dialog "Le fuseau horaire a été défini comme celui du système." buttons {"Fermer"} default button 1 with title "Fuseau horaire mis à jour"
 			end if
+			
 		end if
 		
 	end if
