@@ -13,7 +13,7 @@ repeat
 	
 	if choix is not "-" then
 		
-		display dialog "Fuseaux est un logiciel gratuit. Pour plus d’informations sur celui-ci et sur son fonctionnement, consultez le répertoire GitHub du projet." with title "Fuseaux" with icon note buttons {"Quitter", "Voir les fuseaux horaires", "À propos"} default button 2
+		display dialog "Fuseaux est un logiciel gratuit. Pour plus d’informations sur celui-ci et sur son fonctionnement, consultez le répertoire GitHub du projet." with title "Fuseaux" buttons {"Quitter", "Voir les fuseaux horaires", "À propos"} default button 2
 		set choice to button returned of result
 		
 		if choice is "Quitter" then
@@ -23,7 +23,7 @@ repeat
 		end if
 		
 		if choice is "À propos" then
-			display dialog "Version 1.0 build 2
+			display dialog "Version 1.0 build 3
 2023, iStuces
 
 Co-créé par l'intelligence artificielle. 🧠
