@@ -12,6 +12,8 @@ Fuseaux vous indique l'heure de chaque endroit du monde, et vous permet de modif
 L'application nécessite un Mac sous macOS X 10.6 ou ultérieur. Celle-ci est compatible avec Apple Silicon.
 Vous aurez besoin de 3 Mo d'espace disque libre sur votre Mac.
 
+Pour un confort optimal, utilisez macOS 11.0 ou ultérieur.
+
 ## ✉️ Restez informé...
 ...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord
 
