@@ -6,13 +6,11 @@
 Maîtrisez le décalage horaire.
 
 ## ☕️ À propos
-Fuseaux vous indique l'heure de chaque endroit du monde, et vous permet de modifier, en quelques clics, le fuseau horaire de votre Mac.
+Fuseaux vous indique l'heure de chaque endroit du monde.
 
 ## 🚀 Prérequis
-L'application nécessite un Mac sous macOS X 10.6 ou ultérieur. Celle-ci est compatible avec Apple Silicon.
-Vous aurez besoin de 3 Mo d'espace disque libre sur votre Mac.
-
-Pour un confort optimal, utilisez macOS 11.0 ou ultérieur.
+L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur. Celle-ci est compatible avec Apple Silicon.
+Vous aurez besoin d'1 Mo d'espace disque libre sur votre Mac.
 
 ## ✉️ Restez informé...
 ...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord
