@@ -10,17 +10,15 @@ Fuseaux vous indique l'heure de chaque endroit du monde...
 
 ...en grand ou en petit :
 
-<img alt="ClairPetit" src="https://github.com/istucesyt/Fuseaux/assets/108399865/4ac2aeb4-5531-4e15-a18f-1fae61872088" width="300">
-<img alt="ClairGrand" src="https://github.com/istucesyt/Fuseaux/assets/108399865/490e33c5-5ce8-4e08-9097-fd5f17750ec9" width="620">
+**Images indisponibles : répertoire en cours de mise à jour. Veuillez m'excuser pour la gêne occasionnée.**
 
 ...en clair ou sombre :
 
-<img alt="ClairPetit" src="https://github.com/istucesyt/Fuseaux/assets/108399865/4ac2aeb4-5531-4e15-a18f-1fae61872088" width="300">
-<img alt="NoirPetit" src="https://github.com/istucesyt/Fuseaux/assets/108399865/6c41984e-3bc3-4aa1-b90f-b3fdb86d4bb2" width="300">
+**Images indisponibles : répertoire en cours de mise à jour. Veuillez m'excuser pour la gêne occasionnée.**
 
 ...et dans la barre d'état :
 
-<img width="326" alt="StatusBar" src="https://github.com/istucesyt/Fuseaux/assets/108399865/ef860db6-1e45-4918-aa3d-d714d8fa05ff">
+**Images indisponibles : répertoire en cours de mise à jour. Veuillez m'excuser pour la gêne occasionnée.**
 
 ## 🚀 Prérequis
 L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compatible Apple Silicon).
