@@ -20,7 +20,7 @@ Fuseaux vous indique l'heure de chaque endroit du monde...
 
 ...et dans la barre d'état :
 
-<img width="326" alt="Capture d’écran 2023-06-14 à 17 04 25" src="https://github.com/istucesyt/Fuseaux/assets/108399865/ef860db6-1e45-4918-aa3d-d714d8fa05ff">
+<img width="326" alt="StatusBar" src="https://github.com/istucesyt/Fuseaux/assets/108399865/ef860db6-1e45-4918-aa3d-d714d8fa05ff">
 
 ## 🚀 Prérequis
 L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compatible Apple Silicon).
