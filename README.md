@@ -36,6 +36,4 @@ L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compati
 Vous aurez besoin d'1 Mo d'espace disque libre sur votre Mac.
 
 ## ✉️ Restez informé...
-...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord
-
-...en vous abonnant à la chaine YouTube @istuces23 : https://youtube.com/@istuces23
+...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord et en vous abonnant à la chaine YouTube @istuces23 : https://youtube.com/@istuces23
