@@ -35,7 +35,7 @@ Vous aurez besoin d'1 Mo d'espace disque libre sur votre Mac.
 
 ## 🐞 Fuseaux beta
 Testez en avant-première les futures versions de Fuseaux, et rapportez les erreurs / bogues à *istucesyt@gmail.com*
-* ~~Fuseaux beta 1.0~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v1.0-beta
+* ~~Fuseaux beta 1.0~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v1.0
 * ~~Fuseaux beta 2.0~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v2.0-beta
 * Fuseaux beta 3.0 : https://github.com/istucesyt/Fuseaux/releases/tag/v3.0-beta
 
