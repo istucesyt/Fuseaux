@@ -11,13 +11,13 @@ Fuseaux vous indique l'heure de chaque endroit du monde...
 
 ...en grand ou en petit :
 
-<img width="290" alt="ClairPetit" src="https://github.com/istucesyt/Fuseaux/assets/108399865/6c6f7369-2cd6-430d-bc2b-8b3708d7f100">
-<img width="600" alt="SombreGrand" src="https://github.com/istucesyt/Fuseaux/assets/108399865/01cd7ec2-89d6-4165-b981-4f6ac3d8971b">
+<img width="225" alt="ClairPetit1" src="https://github.com/istucesyt/Fuseaux/assets/108399865/dcc8059d-d789-4e35-9578-30c9f2608108">
+<img width="600" alt="ClairGrand1" src="https://github.com/istucesyt/Fuseaux/assets/108399865/10d84f1f-6c78-4a03-b8ee-1bf0c8c55926">
 
 ...en clair ou en sombre :
 
-<img width="290" alt="SombrePetit" src="https://github.com/istucesyt/Fuseaux/assets/108399865/e3caa520-f5d1-42f1-b873-73b2c3be366e">
-<img width="290" alt="ClairPetit" src="https://github.com/istucesyt/Fuseaux/assets/108399865/99168c58-a028-4d6f-a9fd-d60cd12102d3">
+<img width="225" alt="ClairPetit2" src="https://github.com/istucesyt/Fuseaux/assets/108399865/1f6998a4-8e11-44fe-993b-07240bd8b09b">
+<img width="225" alt="SombrePetit1" src="https://github.com/istucesyt/Fuseaux/assets/108399865/6f3fa0f0-485b-4cda-80f4-ad39fa33d599">
 
 ...et dans la barre d'état :
 
