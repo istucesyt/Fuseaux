@@ -1,4 +1,5 @@
 # Fuseaux
+
 <img a href="https://zupimages.net/viewer.php?id=23/22/dtlv.png"><img src="https://zupimages.net/up/23/22/dtlv.png" width="150"/>
 
 <sub> > Icône par julianparrenoGD. </sub>
@@ -7,6 +8,7 @@ Maîtrisez le décalage horaire.
 Gérez les fuseaux systèmes.
 
 ## ☕️ À propos
+
 Fuseaux vous indique l'heure de chaque endroit du monde...
 
 **Le répertoire est en cours de mise à jour. Le contenu des images présentées peut ne pas correspondre à l'interface de Fuseaux.**
@@ -26,22 +28,28 @@ Fuseaux vous indique l'heure de chaque endroit du monde...
 <img width="250" alt="WidgetBarreD'État" src="https://github.com/istucesyt/Fuseaux/assets/108399865/c931fd0e-b14e-4561-b2e9-0e341b48a83f">
 
 ## 📡 Fuseaux Utility
+
 Lors du remplacement du fuseau système par un autre fuseau, l'application appelle l'utilitaire Fuseaux Utility.
 La démarche d'installation est détaillée dans Fuseaux.
 
 <img width="290" alt="FuseauxUtility" src="https://github.com/istucesyt/Fuseaux/assets/108399865/0adbe56a-7f0e-4564-971d-3ab62b6cc42a">
 
 ## 🚀 Prérequis
+
 L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compatible Apple Silicon).
 Vous aurez besoin d'1 Mo d'espace disque libre sur votre Mac.
 
 ## 🐞 Fuseaux beta
+
+<img width="128" alt="mac256" src="https://github.com/istucesyt/Fuseaux/assets/108399865/ad5240b8-fa8d-420f-b896-88c2c85a1472">
+
 Testez en avant-première les futures versions de Fuseaux, et rapportez les erreurs / bogues à *istucesyt@gmail.com*
 * ~~Fuseaux beta 1.0 build 1~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v1.0-build1-beta
 * ~~Fuseaux beta 2.0~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v2.0-beta
 * Fuseaux beta 3.0 : https://github.com/istucesyt/Fuseaux/releases/tag/v3.0-beta
 
 ## ✉️ Restez informé...
+
 ...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord et en vous abonnant à la chaine YouTube *@istuces23* : https://youtube.com/@istuces23
 
 Contactez iStuces : *istucesyt@gmail.com*
