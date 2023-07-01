@@ -11,7 +11,7 @@ Gérez les fuseaux systèmes.
 
 Fuseaux vous indique l'heure de chaque endroit du monde...
 
-**Le répertoire est en cours de mise à jour. Le contenu des images présentées peut ne pas correspondre à l'interface de Fuseaux.**
+> **Le répertoire est en cours de mise à jour. Le contenu des images présentées peut ne pas correspondre à l'interface de Fuseaux.**
 
 ...en grand ou en petit :
 
