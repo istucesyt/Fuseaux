@@ -9,7 +9,7 @@ Gérez les fuseaux systèmes.
 
 ## ☕️ À propos
 
-Fuseaux vous indique l'heure de chaque endroit du monde...
+Fuseaux vous indique l'heure de chaque recoin du monde...
 
 > **Le répertoire est en cours de mise à jour. Le contenu des images présentées peut ne pas correspondre à l'interface de Fuseaux.**
 
