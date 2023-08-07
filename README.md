@@ -11,8 +11,6 @@ Gérez les fuseaux systèmes.
 
 Fuseaux vous indique l'heure de chaque recoin du monde...
 
-> **Le répertoire est en cours de mise à jour. Le contenu des images présentées peut ne pas correspondre à l'interface de Fuseaux.**
-
 ...en grand ou en petit :
 
 <img width="225" alt="ClairPetit1" src="https://github.com/istucesyt/Fuseaux/assets/108399865/dcc8059d-d789-4e35-9578-30c9f2608108">
