@@ -35,7 +35,7 @@ La démarche d'installation est détaillée dans Fuseaux.
 ## 🚀 Prérequis
 
 L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compatible Apple Silicon).
-Vous aurez besoin d'1 Mo d'espace disque libre sur votre Mac.
+Vous aurez besoin de 5 Mo d'espace disque libre sur votre Mac.
 
 ## 🐞 Fuseaux beta
 
