@@ -1,6 +1,6 @@
 # Fuseaux
 
-<img <a href="https://zupimages.net/viewer.php?id=23/22/dtlv.png"><img src="https://zupimages.net/up/23/22/dtlv.png" alt="" width="150"/>
+<a href="https://zupimages.net/viewer.php?id=23/22/dtlv.png"><img src="https://zupimages.net/up/23/22/dtlv.png" alt="" /></a>
 
 <sub> > Icône par julianparrenoGD. </sub>
 
