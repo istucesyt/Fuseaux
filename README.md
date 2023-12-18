@@ -49,6 +49,6 @@ Testez en avant-première les futures versions de Fuseaux, et rapportez les erre
 
 ## ✉️ Restez informé...
 
-...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord et en vous abonnant à la chaine YouTube *@istuces23* : https://youtube.com/@istuces23
+...en rejoignant mon serveur Discord : https://tinyurl.com/iStuces-Discord et en vous abonnant à ma chaine YouTube *@istuces23* : https://youtube.com/@istuces23
 
-Contactez iStuces : *istucesyt@gmail.com*
+Contactez-moi : *istucesyt@gmail.com*
