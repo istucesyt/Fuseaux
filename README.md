@@ -7,6 +7,8 @@
 Maîtrisez le décalage horaire.
 Gérez les fuseaux systèmes.
 
+https://istuces.framer.website/fuseaux
+
 ## À propos
 
 Fuseaux vous indique l'heure de chaque recoin du monde...
