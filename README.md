@@ -56,7 +56,8 @@ Testez en avant-première les futures versions de Fuseaux, et rapportez les erre
 Testez en les futures versions incomplètes de Fuseaux, et rapportez les erreurs / bogues à *istucesyt@gmail.com*
 * ~~Fuseaux 4 dev 1~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev1
 * ~~Fuseaux 4 dev 2~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev2
-* Fuseaux 4 dev 3 : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev3
+* ~~Fuseaux 4 dev 3~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev3
+* Fuseaux 4 dev 4 : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev4
 
 ## Restez informé...
 
