@@ -51,7 +51,7 @@ Testez en avant-première les futures versions de Fuseaux, et rapportez les erre
 
 ## Fuseaux dev
 
-<img width="128" alt="mac256" src="https://zupimages.net/up/23/51/g03x.png">
+<img width="128" alt="mac256" src="https://zupimages.net/up/24/01/7ul4.png">
 
 Testez en les futures versions incomplètes de Fuseaux, et rapportez les erreurs / bogues à *istucesyt@gmail.com*
 * ~~Fuseaux 4 dev 1~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev1
