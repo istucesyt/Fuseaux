@@ -36,8 +36,8 @@ La démarche d'installation est détaillée dans Fuseaux.
 
 ## Prérequis
 
-L'application nécessite un Mac sous macOS 11.0 (Big Sur) ou ultérieur (compatible Apple Silicon).
-Vous aurez besoin de 5 Mo d'espace disque libre sur votre Mac.
+L'application nécessite un Mac sous macOS 13.0 (Ventura) ou ultérieur (compatible Apple Silicon).
+5 Mo d'espace disque requis sur votre Mac.
 
 ## Fuseaux beta
 
@@ -59,7 +59,8 @@ Testez en les futures versions incomplètes de Fuseaux, et rapportez les erreurs
 * ~~Fuseaux 4 dev 3~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev3
 * ~~Fuseaux 4 dev 4~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev4
 * ~~Fuseaux 4 dev 5~~ : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev5
-* Fuseaux 4 dev 6 : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev6
+* ~~Fuseaux 4 dev 6 :~~ https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev6
+* Fuseaux 4 dev 7 : https://github.com/istucesyt/Fuseaux/releases/tag/v4.0-dev7
 
 ## Restez informé...
 
