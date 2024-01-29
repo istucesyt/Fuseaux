@@ -6,7 +6,6 @@ import ServiceManagement
 import Cocoa
 
 struct Settings: View {
-    @State private var appVersion = "4.0"
     @AppStorage("newWindowOption") var newWindowOption = true
     
     var body: some View {
@@ -55,7 +54,7 @@ struct Settings: View {
                 .font(.system(size: 10, weight: .regular))
                 .foregroundColor(.primary)
             +
-            Text(" \(appVersion)")
+            Text(" \(getAppVersion())")
                 .font(.system(size: 10, weight: .medium))
                 .foregroundColor(.primary)
             
@@ -84,7 +83,7 @@ struct Settings: View {
                 website()
             }) {
                 Image(systemName: "globe")
-                Text("istuces.framer.website/fuseaux")
+                Text("Site web")
                     .font(.system(size: 12, weight: .regular))
                     .foregroundColor(.primary)
             }
@@ -94,7 +93,7 @@ struct Settings: View {
                 github()
             }) {
                 Image(systemName: "globe")
-                Text("github.com/istucesyt/Fuseaux")
+                Text("GitHub")
                     .font(.system(size: 12, weight: .regular))
                     .foregroundColor(.primary)
             }
@@ -130,6 +129,13 @@ struct Settings: View {
         if let url = URL(string: "https://github.com/istucesyt/Fuseaux") {
             NSWorkspace.shared.open(url)
         }
+    }
+    
+    func getAppVersion() -> String {
+            if let appVersion = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String {
+                return appVersion
+            }
+            return "Unknown"
     }
 }
 
